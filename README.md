@@ -1,7 +1,8 @@
 <img align="center" width=100% src="https://github.com/JoaoAnacleto/JoaoAnacleto/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(4).png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions.</p>&nbsp;
+<p align="center">I ❤️ crafting innovative solutions through technology.<br><br>With expertise in RPA development, from designing intricate automations to optimizing processes, I am dedicated to exploring novel concepts and applying them to build top-notch solutions.
+</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=JoaoAnacleto&theme=radical&mode=weekly" />
