@@ -1,4 +1,4 @@
-<img align="center" width=100% src="https://github.com/JoaoAnacleto/JoaoAnacleto/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(3).png" />
+<img align="center" width=100% src="https://github.com/JoaoAnacleto/JoaoAnacleto/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(4).png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions.</p>&nbsp;
