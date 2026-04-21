@@ -1,4 +1,4 @@
-# Olá, eu sou o João Vitor Anacleto 👋
+# Olá, eu sou o João Anacleto 👋
 
 Desenvolvedor focado em **RPA**, **Automação de Processos** e **Infraestrutura**. Atualmente, transformo processos manuais em fluxos eficientes utilizando Python, Docker e Inteligência Artificial.
 
