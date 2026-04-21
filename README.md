@@ -7,9 +7,9 @@ Desenvolvedor focado em **RPA**, **Automação de Processos** e **Infraestrutura
 ### 🚀 Sobre Mim
 - 🏗️ **RPA & Automação:** Especialista em criar bots robustos com **Playwright**, **Selenium** e **BotCity**.
 - 🛠️ **Infraestrutura:** Gerenciamento de containers com **Docker**, **Docker Swarm** e **Portainer**.
-- 📊 **Logística & Dados:** Experiência no desenvolvimento de dashboards críticos e integração de sistemas de rastreamento (Traccar, Sascar, Volvo Connect).
+- 📊 **Logística & Dados:** Experiência no desenvolvimento de dashboards críticos e integração de sistemas de rastreamento.
 - 🤖 **IA:** Integração de soluções inteligentes utilizando **OpenAI** e **Azure AI Services**.
-- 🎲 **Hobbies:** Entusiasta de RPGs de mesa com foco em sistemas minimalistas e fantasia medieval.
+- 🎲 **Hobbies:** Entusiasta de RPGs de mesa e fantasia medieval.
 
 ---
 
@@ -25,21 +25,8 @@ Desenvolvedor focado em **RPA**, **Automação de Processos** e **Infraestrutura
 
 ---
 
-### 📈 Destaques de Projetos
-* **Computer Vision em Logística:** Classificação automatizada de embalagens de bobinas de aço, reduzindo erros de faturamento em **60%**.
-* **Chatbot Corporativo:** Integração de MS Teams + SharePoint via Azure OpenAI para base de conhecimento dinâmica.
-* **Sincronização de Frotas:** Desenvolvimento de gateway para centralizar dados de mais de 1.000 dispositivos de rastreamento no Traccar.
-
----
-
 ### 📫 Contato
 - 📍 Minas Gerais, Brasil
 - 🔗 **LinkedIn:** [linkedin.com/in/joao-anacleto](https://www.linkedin.com/in/joao-anacleto/)
 - 📧 **E-mail:** joaovitoranacleto.m@gmail.com
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoAnacleto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAnacleto&layout=compact&theme=dracula" alt="Top Langs" />
-</div>
